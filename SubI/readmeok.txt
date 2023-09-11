@@ -16,3 +16,5 @@ You can manipulate with data using commands:
 0000000011101(-1) - negates the argument.
 0000001100000(4+4i) - performs subIwise and.
 1111110011111(-42+9j) - performs subIwise or.
+
+Also, there is a tool called basesubi.py, which helps you convert to and from base i-1.
